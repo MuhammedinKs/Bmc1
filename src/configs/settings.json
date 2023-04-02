@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://MuhammedinKs:Mks123@cluster0.p2tjjfa.mongodb.net/MuhammedinKsData?retryWrites=true&w=majority",
+  "clientID": "",
+  "token": "",
+  "secret": "",
+  "callbackURL": ""
+}
